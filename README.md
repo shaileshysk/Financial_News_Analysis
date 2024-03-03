@@ -83,7 +83,7 @@ You can run the UI separately by running Streamlit app `streamlit run ui.py` com
 
 ## Contributors
 
-- [Avinash238](https://github.com/shaileshysk)
+- [shaileshysk](https://github.com/shaileshysk)
 
 ## License
 
