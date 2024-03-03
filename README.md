@@ -44,7 +44,7 @@ This LLM-powered application processes user-provided financial news queries and 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Avinash238/Financial_News_Analysis.git
+    git clone https://github.com/shaileshysk/Financial_News_Analysis.git
     cd Financial_News_Analysis
     ```
 
